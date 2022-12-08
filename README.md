@@ -11,3 +11,8 @@ https://docs.google.com/drawings/d/1zaxeVwMJ00ZeP7iL2PCNqqCgPW5CjXq_M1sqQVhsJRg/
 Slides:
 
 https://docs.google.com/presentation/d/1TnpOtbdARm3trqOr7NNN6lYWDkQ1mA0oAbEGObZBM5o/edit?usp=sharing
+
+Main Application: 
+dbt.py
+
+png files required to run application.
